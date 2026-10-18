@@ -1,1 +1,1 @@
-# lab4Web
+This project is a simple website layout created using HTML and CSS. It demonstrates the basic structure of a website, including a header, navigation bar, hero section, main content, sidebar widgets, portfolio cards, and footer.
