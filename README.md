@@ -1,6 +1,5 @@
 This project is a simple website layout created using HTML and CSS. It demonstrates the basic structure of a website, including a header, navigation bar, hero section, main content, sidebar widgets, portfolio cards, and footer.
 
 Explanation step by step: 
-
 <img width="1919" height="944" alt="Screenshot 2026-10-18 091129" src="https://github.com/user-attachments/assets/1ede1856-ad2b-4713-9fcf-01694a7f782b" />
 This step demonstrates the implementation of the sidebar widgets in the website layout. The sidebar consists of two sections: "Widget Header" and "Widget Text." The Widget Header section contains five links that can be used to navigate to other content, while the Widget Text section displays a paragraph of descriptive text. Both sections use blue title backgrounds with white, bold text to distinguish their headings from the rest of the content. The layout is styled using CSS classes such as .widget-box and .title, which control the borders, spacing, and background colors. The footer appears below the content and displays the copyright information for Universitas Pelita Bangsa. This step demonstrates how sidebar widgets and a footer can be incorporated into a website to organize information and improve its overall structure.
